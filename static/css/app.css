@@ -1,0 +1,25 @@
+.color-red {
+  color: red;
+}
+
+.content-none{
+  display: none;
+}
+
+.content-img,
+.bcg-content-color{
+  width:100px;
+  height:100px;
+}
+
+.bcg-content-color{
+  display: inline-block;
+  background-color: #C00;
+  border-radius: 50%;
+  color:#FFF;
+  font-size:44px;
+  text-align: center;
+  padding:0px;
+  background-image: radial-gradient(circle, #e51225, #fc5a84, #f899cc, #efd0f5, #ffffff);
+  box-shadow:2px 3px 5px #CCC;
+}
